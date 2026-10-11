@@ -1,0 +1,1962 @@
+[
+ {
+  "n": 1,
+  "title": "標題主視覺",
+  "files": [
+   "art/keyart/title.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 2,
+  "title": "第一幕・荒骨原",
+  "files": [
+   "art/bg/act1.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 3,
+  "title": "第二幕・霜燼城",
+  "files": [
+   "art/bg/act2.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 4,
+  "title": "第三幕・雷淵頂",
+  "files": [
+   "art/bg/act3.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 5,
+  "title": "焚心劍客（赤焰）",
+  "files": [
+   "art/heroes/flame.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 6,
+  "title": "霜語守衛（玄霜）",
+  "files": [
+   "art/heroes/frost.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 7,
+  "title": "骨契術士（骸契）",
+  "files": [
+   "art/heroes/bone.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 8,
+  "title": "雷樞機工（雷樞）",
+  "files": [
+   "art/heroes/storm.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 9,
+  "title": "守燭人・燈婆（第一幕古神）",
+  "files": [
+   "art/ancients/1.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 10,
+  "title": "玄冥古龍（第二幕古神）",
+  "files": [
+   "art/ancients/2.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 11,
+  "title": "雷淵之眼・太一（第三幕古神）",
+  "files": [
+   "art/ancients/3.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 12,
+  "title": "腐鴉",
+  "files": [
+   "art/enemies/crow.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 13,
+  "title": "骨甲蟲",
+  "files": [
+   "art/enemies/beetle.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 14,
+  "title": "荒原狼",
+  "files": [
+   "art/enemies/wolf.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 15,
+  "title": "菌菇人",
+  "files": [
+   "art/enemies/shroom.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 16,
+  "title": "沙蠍",
+  "files": [
+   "art/enemies/scorp.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 17,
+  "title": "骸教徒",
+  "files": [
+   "art/enemies/cultist.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 18,
+  "title": "骸兵",
+  "files": [
+   "art/enemies/skel.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 19,
+  "title": "骸骨將軍",
+  "files": [
+   "art/enemies/general.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 20,
+  "title": "雙頭鷲",
+  "files": [
+   "art/enemies/vulture.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 21,
+  "title": "沼澤巨蛙",
+  "files": [
+   "art/enemies/frog.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 22,
+  "title": "腐骨之王",
+  "files": [
+   "art/enemies/bone_king.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 23,
+  "title": "冰魄",
+  "files": [
+   "art/enemies/wraith.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 24,
+  "title": "燼衛",
+  "files": [
+   "art/enemies/eguard.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 25,
+  "title": "熔岩犬",
+  "files": [
+   "art/enemies/hound.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 26,
+  "title": "冰晶術士",
+  "files": [
+   "art/enemies/mage.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 27,
+  "title": "刺客",
+  "files": [
+   "art/enemies/assassin.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 28,
+  "title": "燼靈",
+  "files": [
+   "art/enemies/imp.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 29,
+  "title": "冰像",
+  "files": [
+   "art/enemies/icestatue.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 30,
+  "title": "霜巨人",
+  "files": [
+   "art/enemies/giant.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 31,
+  "title": "燼焰雙子・陽",
+  "files": [
+   "art/enemies/twinA.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 32,
+  "title": "燼焰雙子・陰",
+  "files": [
+   "art/enemies/twinB.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 33,
+  "title": "鍊金傀儡",
+  "files": [
+   "art/enemies/golem.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 34,
+  "title": "霜燼女皇",
+  "files": [
+   "art/enemies/empress.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 35,
+  "title": "雷鳥",
+  "files": [
+   "art/enemies/tbird.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 36,
+  "title": "機械哨兵",
+  "files": [
+   "art/enemies/sentinel.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 37,
+  "title": "深淵觸手",
+  "files": [
+   "art/enemies/tentacle.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 38,
+  "title": "狂信者",
+  "files": [
+   "art/enemies/zealot.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 39,
+  "title": "虛空蛛",
+  "files": [
+   "art/enemies/spider.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 40,
+  "title": "符衛",
+  "files": [
+   "art/enemies/warden.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 41,
+  "title": "雷霆龍蜥",
+  "files": [
+   "art/enemies/drake.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 42,
+  "title": "三相守門人",
+  "files": [
+   "art/enemies/gate.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 43,
+  "title": "燼符之主",
+  "files": [
+   "art/enemies/lord.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 44,
+  "title": "骸兵",
+  "files": [
+   "art/allies/skel.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 45,
+  "title": "骨犬",
+  "files": [
+   "art/allies/bone_hound.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 46,
+  "title": "骸骨巨像",
+  "files": [
+   "art/allies/colossus.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 47,
+  "title": "怨靈",
+  "files": [
+   "art/allies/wraith.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 48,
+  "title": "骨龍",
+  "files": [
+   "art/allies/bone_dragon.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 49,
+  "title": "火靈",
+  "files": [
+   "art/allies/flame_spirit.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 50,
+  "title": "冰晶守衛",
+  "files": [
+   "art/allies/ice_guard.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 51,
+  "title": "浮游砲",
+  "files": [
+   "art/allies/turret.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 52,
+  "title": "石魔像",
+  "files": [
+   "art/allies/golem.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 53,
+  "title": "泥偶",
+  "files": [
+   "art/allies/mud.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 54,
+  "title": "打擊",
+  "files": [
+   "art/cards/strike.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 55,
+  "title": "防禦",
+  "files": [
+   "art/cards/defend.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 56,
+  "title": "疾步斬",
+  "files": [
+   "art/cards/dash_slash.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 57,
+  "title": "架勢",
+  "files": [
+   "art/cards/stance.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 58,
+  "title": "凝神",
+  "files": [
+   "art/cards/focus.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 59,
+  "title": "萬象斬",
+  "files": [
+   "art/cards/whirl.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 60,
+  "title": "雙符共鳴",
+  "files": [
+   "art/cards/twin_soul.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 61,
+  "title": "煉丹",
+  "files": [
+   "art/cards/alchemy.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 62,
+  "title": "破綻",
+  "files": [
+   "art/cards/opening.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 63,
+  "title": "金錢攻勢",
+  "files": [
+   "art/cards/coin_strike.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 64,
+  "title": "戰術轉進",
+  "files": [
+   "art/cards/retreat.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 65,
+  "title": "石魔像",
+  "files": [
+   "art/cards/golem.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 66,
+  "title": "燎原",
+  "files": [
+   "art/cards/flame_start.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 67,
+  "title": "火舌",
+  "files": [
+   "art/cards/flame_lash.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 68,
+  "title": "焚身",
+  "files": [
+   "art/cards/ignite.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 69,
+  "title": "炎爆",
+  "files": [
+   "art/cards/firebomb.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 70,
+  "title": "熾劍",
+  "files": [
+   "art/cards/blaze_blade.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 71,
+  "title": "鼓焰",
+  "files": [
+   "art/cards/inflame.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 72,
+  "title": "燃血",
+  "files": [
+   "art/cards/bloodburn.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 73,
+  "title": "野火",
+  "files": [
+   "art/cards/wildfire.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 74,
+  "title": "引爆",
+  "files": [
+   "art/cards/detonate.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 75,
+  "title": "連環斬",
+  "files": [
+   "art/cards/flurry.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 76,
+  "title": "劍焰風暴",
+  "files": [
+   "art/cards/blade_storm.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 77,
+  "title": "鳳翼",
+  "files": [
+   "art/cards/phoenix.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 78,
+  "title": "燼滅",
+  "files": [
+   "art/cards/annihilate.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 79,
+  "title": "炎障",
+  "files": [
+   "art/cards/flame_barrier.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 80,
+  "title": "怒焰",
+  "files": [
+   "art/cards/fury.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 81,
+  "title": "熔火重劈",
+  "files": [
+   "art/cards/magma_cleave.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 82,
+  "title": "燼舞",
+  "files": [
+   "art/cards/ember_dance.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 83,
+  "title": "焦土",
+  "files": [
+   "art/cards/scorched.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 84,
+  "title": "喚火靈",
+  "files": [
+   "art/cards/flame_spirit.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 85,
+  "title": "冰壁",
+  "files": [
+   "art/cards/frost_start.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 86,
+  "title": "寒刃",
+  "files": [
+   "art/cards/frost_edge.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 87,
+  "title": "霜甲",
+  "files": [
+   "art/cards/frost_armor.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 88,
+  "title": "冰封",
+  "files": [
+   "art/cards/deep_freeze.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 89,
+  "title": "永凍",
+  "files": [
+   "art/cards/permafrost.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 90,
+  "title": "盾擊",
+  "files": [
+   "art/cards/shield_bash.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 91,
+  "title": "寒潮",
+  "files": [
+   "art/cards/cold_wave.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 92,
+  "title": "冰棘",
+  "files": [
+   "art/cards/frost_spikes.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 93,
+  "title": "霜行",
+  "files": [
+   "art/cards/frost_step.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 94,
+  "title": "雪崩",
+  "files": [
+   "art/cards/avalanche.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 95,
+  "title": "冰晶守衛",
+  "files": [
+   "art/cards/ice_guard.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 96,
+  "title": "雪藏",
+  "files": [
+   "art/cards/snowbound.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 97,
+  "title": "寒霜之心",
+  "files": [
+   "art/cards/frost_heart.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 98,
+  "title": "絕對零度",
+  "files": [
+   "art/cards/abs_zero.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 99,
+  "title": "冰槍",
+  "files": [
+   "art/cards/ice_lance.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 100,
+  "title": "堅冰反擊",
+  "files": [
+   "art/cards/riposte.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 101,
+  "title": "冰封王座",
+  "files": [
+   "art/cards/frost_throne.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 102,
+  "title": "召喚骸兵",
+  "files": [
+   "art/cards/bone_start.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 103,
+  "title": "骨犬",
+  "files": [
+   "art/cards/bone_hound.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 104,
+  "title": "骸骨巨像",
+  "files": [
+   "art/cards/colossus.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 105,
+  "title": "怨靈",
+  "files": [
+   "art/cards/wraith_unit.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 106,
+  "title": "獻祭",
+  "files": [
+   "art/cards/sacrifice.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 107,
+  "title": "骨牆",
+  "files": [
+   "art/cards/bone_wall.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 108,
+  "title": "屍爆",
+  "files": [
+   "art/cards/corpse_blast.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 109,
+  "title": "骨矛",
+  "files": [
+   "art/cards/bone_spear.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 110,
+  "title": "骨鐮",
+  "files": [
+   "art/cards/bone_scythe.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 111,
+  "title": "亡者軍團",
+  "files": [
+   "art/cards/legion.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 112,
+  "title": "驅屍",
+  "files": [
+   "art/cards/command.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 113,
+  "title": "骨甲",
+  "files": [
+   "art/cards/bone_armor.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 114,
+  "title": "魂火",
+  "files": [
+   "art/cards/soul_fire.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 115,
+  "title": "收割",
+  "files": [
+   "art/cards/reap.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 116,
+  "title": "白骨祭壇",
+  "files": [
+   "art/cards/ossuary.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 117,
+  "title": "腐朽之觸",
+  "files": [
+   "art/cards/rot_touch.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 118,
+  "title": "骨龍",
+  "files": [
+   "art/cards/bone_dragon.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 119,
+  "title": "電弧步",
+  "files": [
+   "art/cards/storm_start.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 120,
+  "title": "連鎖閃電",
+  "files": [
+   "art/cards/chain_lightning.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 121,
+  "title": "疾走",
+  "files": [
+   "art/cards/dash.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 122,
+  "title": "滑行",
+  "files": [
+   "art/cards/slide.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 123,
+  "title": "超頻",
+  "files": [
+   "art/cards/overclock.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 124,
+  "title": "浮游砲",
+  "files": [
+   "art/cards/turret.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 125,
+  "title": "電磁脈衝",
+  "files": [
+   "art/cards/emp.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 126,
+  "title": "引雷針",
+  "files": [
+   "art/cards/lightning_rod.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 127,
+  "title": "動能裝甲",
+  "files": [
+   "art/cards/kinetic.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 128,
+  "title": "疾風連打",
+  "files": [
+   "art/cards/rapid.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 129,
+  "title": "雷霆萬鈞",
+  "files": [
+   "art/cards/thunderclap.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 130,
+  "title": "磁軌砲",
+  "files": [
+   "art/cards/railgun.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 131,
+  "title": "雷樞核心",
+  "files": [
+   "art/cards/storm_core.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 132,
+  "title": "共振迴路",
+  "files": [
+   "art/cards/resonance_loop.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 133,
+  "title": "電磁鉤",
+  "files": [
+   "art/cards/grapple.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 134,
+  "title": "推進器",
+  "files": [
+   "art/cards/thrusters.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 135,
+  "title": "放電",
+  "files": [
+   "art/cards/discharge.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 136,
+  "title": "眩暈",
+  "files": [
+   "art/cards/dazed.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 137,
+  "title": "餘燼",
+  "files": [
+   "art/cards/cinder.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 138,
+  "title": "傷口",
+  "files": [
+   "art/cards/wound.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 139,
+  "title": "怨念",
+  "files": [
+   "art/cards/regret.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 140,
+  "title": "疑慮",
+  "files": [
+   "art/cards/doubt.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 141,
+  "title": "地圖・荒骨原",
+  "files": [
+   "art/map/act1.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 142,
+  "title": "地圖・霜燼城",
+  "files": [
+   "art/map/act2.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 143,
+  "title": "地圖・雷淵頂",
+  "files": [
+   "art/map/act3.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 144,
+  "title": "赤燼石、凝霜佩、骸骨匣、超導線圈",
+  "files": [
+   "art/charms/ember_stone.webp",
+   "art/charms/frost_pendant.webp",
+   "art/charms/bone_box.webp",
+   "art/charms/storm_coil.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 145,
+  "title": "磨刀石、鐵膚符、引魂燈、聚寶袋",
+  "files": [
+   "art/charms/whetstone.webp",
+   "art/charms/iron_skin.webp",
+   "art/charms/lantern.webp",
+   "art/charms/coin_purse.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 146,
+  "title": "血玉瓶、輕羽靴、錨石、硃砂筆",
+  "files": [
+   "art/charms/blood_vial.webp",
+   "art/charms/boots.webp",
+   "art/charms/anchor.webp",
+   "art/charms/pen.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 147,
+  "title": "招財貓、飯票、備忘錄、戰鼓",
+  "files": [
+   "art/charms/lucky_cat.webp",
+   "art/charms/meal.webp",
+   "art/charms/memo.webp",
+   "art/charms/war_drum.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 148,
+  "title": "冰糖葫蘆、雷鈴、骨笛、戰旗",
+  "files": [
+   "art/charms/ice_cream.webp",
+   "art/charms/bell.webp",
+   "art/charms/bone_flute.webp",
+   "art/charms/banner.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 149,
+  "title": "翡翠項鍊、雷擊石、骰盅、鎖子甲",
+  "files": [
+   "art/charms/necklace.webp",
+   "art/charms/storm_stone.webp",
+   "art/charms/reroll_cup.webp",
+   "art/charms/chain_mail.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 150,
+  "title": "火把、紙鳶、金牙、狂熱面具",
+  "files": [
+   "art/charms/torch.webp",
+   "art/charms/kite.webp",
+   "art/charms/gold_tooth.webp",
+   "art/charms/mask.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 151,
+  "title": "孤注、怒之印、賭徒骰、收藏癖",
+  "files": [
+   "art/charms/all_in.webp",
+   "art/charms/rage_seal.webp",
+   "art/charms/dice.webp",
+   "art/charms/collector.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 152,
+  "title": "金牛、顱杯、旋風扇、雙生符",
+  "files": [
+   "art/charms/bull.webp",
+   "art/charms/skull_cup.webp",
+   "art/charms/fan.webp",
+   "art/charms/twin_tali.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 153,
+  "title": "燭台、灼眼、霜晶、貴賓帖",
+  "files": [
+   "art/charms/candelabra.webp",
+   "art/charms/burning_eye.webp",
+   "art/charms/frost_crystal.webp",
+   "art/charms/vip.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 154,
+  "title": "沙漏、鏡片、冥火燈、共鳴石",
+  "files": [
+   "art/charms/hourglass.webp",
+   "art/charms/mirror_shard.webp",
+   "art/charms/grave_lamp.webp",
+   "art/charms/res_stone.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 155,
+  "title": "鏡像符、鳳羽、龍珠、風車",
+  "files": [
+   "art/charms/blueprint.webp",
+   "art/charms/phoenix_feather.webp",
+   "art/charms/dragon_pearl.webp",
+   "art/charms/pinwheel.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 156,
+  "title": "燼冠、聚能水晶、幽燈、黑契",
+  "files": [
+   "art/charms/crown_ember.webp",
+   "art/charms/energy_crystal.webp",
+   "art/charms/dark_lamp.webp",
+   "art/charms/black_pact.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 157,
+  "title": "血月、百寶符匣、天衡、回春丹",
+  "files": [
+   "art/charms/blood_moon.webp",
+   "art/charms/tali_box.webp",
+   "art/charms/sky_scale.webp",
+   "art/consumables/heal_pot.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 158,
+  "title": "火焰瓶、鐵皮藥、力量藥、精力藥",
+  "files": [
+   "art/consumables/fire_pot.webp",
+   "art/consumables/iron_pot.webp",
+   "art/consumables/str_pot.webp",
+   "art/consumables/energy_pot.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 159,
+  "title": "迅捷藥、冰封瓶、泥偶符、刻印符",
+  "files": [
+   "art/consumables/swift_pot.webp",
+   "art/consumables/frost_pot.webp",
+   "art/consumables/golem_pot.webp",
+   "art/consumables/inscribe.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 160,
+  "title": "淬煉符、淨化符、點金符、複寫符",
+  "files": [
+   "art/consumables/temper.webp",
+   "art/consumables/purge.webp",
+   "art/consumables/midas.webp",
+   "art/consumables/copy.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 161,
+  "title": "遺棄的神龕",
+  "files": [
+   "art/scenes/shrine.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 162,
+  "title": "行腳商人",
+  "files": [
+   "art/scenes/merchant.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 163,
+  "title": "墨池",
+  "files": [
+   "art/scenes/ink_pool.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 164,
+  "title": "骰局",
+  "files": [
+   "art/scenes/gambler.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 165,
+  "title": "古卷樓閣",
+  "files": [
+   "art/scenes/library.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 166,
+  "title": "骸骨堆",
+  "files": [
+   "art/scenes/bone_pile.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 167,
+  "title": "雷擊石柱",
+  "files": [
+   "art/scenes/pillar.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 168,
+  "title": "鏡湖",
+  "files": [
+   "art/scenes/mirror_lake.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 169,
+  "title": "刻印師",
+  "files": [
+   "art/scenes/engraver.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 170,
+  "title": "燭影商人",
+  "files": [
+   "art/scenes/candle_keeper.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 171,
+  "title": "迷霧伏擊",
+  "files": [
+   "art/scenes/ambush.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 172,
+  "title": "古鑄爐",
+  "files": [
+   "art/scenes/forge.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 173,
+  "title": "許願井",
+  "files": [
+   "art/scenes/well.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 174,
+  "title": "營火",
+  "files": [
+   "art/scenes/rest.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 175,
+  "title": "商店",
+  "files": [
+   "art/scenes/shop.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 176,
+  "title": "寶箱",
+  "files": [
+   "art/scenes/treasure.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 177,
+  "title": "印記祭壇",
+  "files": [
+   "art/scenes/altar.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 178,
+  "title": "劍聖（赤焰）、焚天（赤焰）、冰壁（玄霜）、冰魄（玄霜）",
+  "files": [
+   "art/perks/f_saint.webp",
+   "art/perks/f_sky.webp",
+   "art/perks/i_wall.webp",
+   "art/perks/i_soul.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 179,
+  "title": "屍王（骸契）、冥使（骸契）、疾雷（雷樞）、機樞（雷樞）",
+  "files": [
+   "art/perks/b_lich.webp",
+   "art/perks/b_reap.webp",
+   "art/perks/s_blitz.webp",
+   "art/perks/s_eng.webp"
+  ],
+  "grid": true
+ },
+ {
+  "n": 180,
+  "title": "卡牌底紙",
+  "files": [
+   "art/ui/card_paper.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 181,
+  "title": "詛咒卡底紙",
+  "files": [
+   "art/ui/card_curse.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 182,
+  "title": "卡背",
+  "files": [
+   "art/ui/card_back.webp"
+  ],
+  "grid": false
+ },
+ {
+  "n": 201,
+  "title": "九宮符紙",
+  "files": [
+   "art/board/paper.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 202,
+  "title": "卡框・劍",
+  "files": [
+   "art/frames/sword.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 203,
+  "title": "卡框・盾",
+  "files": [
+   "art/frames/shield.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 204,
+  "title": "卡框・萬",
+  "files": [
+   "art/frames/wild.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 205,
+  "title": "腐鴉",
+  "files": [
+   "art/foes/crow.webp"
+  ],
+  "grid": false,
+  "cutout": true
+ },
+ {
+  "n": 206,
+  "title": "荒原狼",
+  "files": [
+   "art/foes/wolf.webp"
+  ],
+  "grid": false,
+  "cutout": true
+ },
+ {
+  "n": 207,
+  "title": "骨甲蟲",
+  "files": [
+   "art/foes/beetle.webp"
+  ],
+  "grid": false,
+  "cutout": true
+ },
+ {
+  "n": 208,
+  "title": "骸骨將軍",
+  "files": [
+   "art/foes/general.webp"
+  ],
+  "grid": false,
+  "cutout": true
+ },
+ {
+  "n": 209,
+  "title": "骸兵",
+  "files": [
+   "art/foes/skel.webp"
+  ],
+  "grid": false,
+  "cutout": true
+ },
+ {
+  "n": 210,
+  "title": "菌菇人",
+  "files": [
+   "art/foes/shroom.webp"
+  ],
+  "grid": false,
+  "cutout": true
+ },
+ {
+  "n": 211,
+  "title": "沙蠍",
+  "files": [
+   "art/foes/scorp.webp"
+  ],
+  "grid": false,
+  "cutout": true
+ },
+ {
+  "n": 212,
+  "title": "腐骨之王",
+  "files": [
+   "art/foes/king.webp"
+  ],
+  "grid": false,
+  "cutout": true
+ },
+ {
+  "n": 213,
+  "title": "焚心劍客的手",
+  "files": [
+   "art/hands/flame.webp"
+  ],
+  "grid": false,
+  "cutout": true
+ },
+ {
+  "n": 214,
+  "title": "霜語守衛的手",
+  "files": [
+   "art/hands/frost.webp"
+  ],
+  "grid": false,
+  "cutout": true
+ },
+ {
+  "n": 215,
+  "title": "骨契術士的手",
+  "files": [
+   "art/hands/bone.webp"
+  ],
+  "grid": false,
+  "cutout": true
+ },
+ {
+  "n": 216,
+  "title": "雷樞機工的手",
+  "files": [
+   "art/hands/storm.webp"
+  ],
+  "grid": false,
+  "cutout": true
+ },
+ {
+  "n": 217,
+  "title": "「劍」插畫",
+  "files": [
+   "art/cardart/sword.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 218,
+  "title": "「盾」插畫",
+  "files": [
+   "art/cardart/shield.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 219,
+  "title": "「斬」插畫",
+  "files": [
+   "art/cardart/zhan.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 220,
+  "title": "「連」插畫",
+  "files": [
+   "art/cardart/lian.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 221,
+  "title": "「雙」插畫",
+  "files": [
+   "art/cardart/shuang.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 222,
+  "title": "「鋒」插畫",
+  "files": [
+   "art/cardart/feng.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 223,
+  "title": "「爆」插畫",
+  "files": [
+   "art/cardart/bao.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 224,
+  "title": "「恆」插畫",
+  "files": [
+   "art/cardart/heng.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 225,
+  "title": "「抽」插畫",
+  "files": [
+   "art/cardart/chou.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 226,
+  "title": "「中」插畫",
+  "files": [
+   "art/cardart/zhong.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 227,
+  "title": "「萬」插畫",
+  "files": [
+   "art/cardart/wan.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 228,
+  "title": "「堅」插畫",
+  "files": [
+   "art/cardart/jian.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 229,
+  "title": "「反」插畫",
+  "files": [
+   "art/cardart/fan.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 230,
+  "title": "「藏」插畫",
+  "files": [
+   "art/cardart/cang.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 231,
+  "title": "朱印：中宮印、純劍印、鐵壁印、連擊印",
+  "files": [
+   "art/seals/center.webp",
+   "art/seals/pure.webp",
+   "art/seals/wall.webp",
+   "art/seals/combo.webp"
+  ],
+  "grid": true,
+  "cutout": true
+ },
+ {
+  "n": 232,
+  "title": "朱印：盾刃印、斜印、燼印、長筆印",
+  "files": [
+   "art/seals/blade.webp",
+   "art/seals/diag.webp",
+   "art/seals/ember.webp",
+   "art/seals/brush.webp"
+  ],
+  "grid": true,
+  "cutout": true
+ },
+ {
+  "n": 233,
+  "title": "朱印：不滅印、袖裡印、墨鬥印、空印",
+  "files": [
+   "art/seals/keep.webp",
+   "art/seals/sleeve.webp",
+   "art/seals/ink.webp",
+   "art/seals/empty.webp"
+  ],
+  "grid": true,
+  "cutout": true
+ },
+ {
+  "n": 234,
+  "title": "格印：金格、恆格、火格、中宮",
+  "files": [
+   "art/marks/gold.webp",
+   "art/marks/stay.webp",
+   "art/marks/fire.webp",
+   "art/marks/center.webp"
+  ],
+  "grid": true,
+  "cutout": true
+ },
+ {
+  "n": 235,
+  "title": "墨漬（四種）",
+  "files": [
+   "art/ink/blot1.webp",
+   "art/ink/blot2.webp",
+   "art/ink/blot3.webp",
+   "art/ink/blot4.webp"
+  ],
+  "grid": true,
+  "cutout": true
+ },
+ {
+  "n": 236,
+  "title": "連線筆觸",
+  "files": [
+   "art/fx/stroke.webp"
+  ],
+  "grid": false,
+  "cutout": true
+ },
+ {
+  "n": 237,
+  "title": "燒符",
+  "files": [
+   "art/fx/burn.webp"
+  ],
+  "grid": false,
+  "cutout": true
+ },
+ {
+  "n": 238,
+  "title": "蓋印衝擊",
+  "files": [
+   "art/fx/stamp.webp"
+  ],
+  "grid": false,
+  "cutout": true
+ },
+ {
+  "n": 239,
+  "title": "介面圖示：生命、護盾、筆數、牌組",
+  "files": [
+   "art/icons/life.webp",
+   "art/icons/shield.webp",
+   "art/icons/brush.webp",
+   "art/icons/deck.webp"
+  ],
+  "grid": true,
+  "cutout": true
+ },
+ {
+  "n": 240,
+  "title": "供桌桌面・寬版（電腦，可不做）",
+  "files": [
+   "art/table/table.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 241,
+  "title": "小木桌",
+  "files": [
+   "art/table/table_m.webp"
+  ],
+  "grid": false,
+  "cutout": true
+ },
+ {
+  "n": 242,
+  "title": "桌上道具：香爐、硯台、符紙疊、朱砂碟",
+  "files": [
+   "art/props/burner.webp",
+   "art/props/inkstone.webp",
+   "art/props/slips.webp",
+   "art/props/cinnabar.webp"
+  ],
+  "grid": true,
+  "cutout": true
+ },
+ {
+  "n": 243,
+  "title": "蠟燭四段（代表生命）",
+  "files": [
+   "art/props/candle_full.webp",
+   "art/props/candle_mid.webp",
+   "art/props/candle_low.webp",
+   "art/props/candle_out.webp"
+  ],
+  "grid": true,
+  "cutout": true
+ },
+ {
+  "n": 244,
+  "title": "廢廟深處（背景）",
+  "files": [
+   "art/bg/temple.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 245,
+  "title": "古神・守燭人・燈婆（坐在桌子對面）",
+  "files": [
+   "art/ancients/seat1.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 246,
+  "title": "古神・玄冥古龍（坐在桌子對面）",
+  "files": [
+   "art/ancients/seat2.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ },
+ {
+  "n": 247,
+  "title": "古神・雷淵之眼・太一（坐在桌子對面）",
+  "files": [
+   "art/ancients/seat3.webp"
+  ],
+  "grid": false,
+  "cutout": false
+ }
+]
